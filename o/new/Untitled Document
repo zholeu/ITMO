@@ -1,0 +1,2 @@
+gcc -o d d.c -I/usr/src/linux-headers-5.15.0-41-generic/include/ -I/usr/src/linux-headers-5.15.0-41/arch/x86/include/
+

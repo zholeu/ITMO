@@ -1,0 +1,2 @@
+/home/alya/Desktop/ITMO_2023/SVV2/disk_my.o
+
